@@ -4,4 +4,4 @@ Deep Learning Models using EfficentNetB0
 ## References
 <a id="1">[1]</a> 
 Mingxing Tan, Quoc V. Le 
-EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)
