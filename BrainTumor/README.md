@@ -1,6 +1,6 @@
 ## Detection of Brain Tumor in MRI Images with Interpretabilty 
 
-Dataset : [Kaggle] (kaggle.com/iashiqul/brain-tumor-mri-image-classification)
+Dataset : [Kaggle](kaggle.com/iashiqul/brain-tumor-mri-image-classification)
 
 EfficientNetB0 is used to classify MRI Images into the following 5 classes:
 1. No Tumor
@@ -11,5 +11,5 @@ EfficientNetB0 is used to classify MRI Images into the following 5 classes:
 Skater Interpretabilty <br/>
 LimeImageExplainer is used to superimpose the mask over the image to show the interpretabilty of the model.
 
-**References**
+**References** <br/>
 [Skater](https://lime-ml.readthedocs.io/en/latest/lime.html)
