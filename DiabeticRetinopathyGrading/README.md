@@ -7,11 +7,11 @@ Dataset: [Kaggle](https://www.kaggle.com/datasets/sovitrath/diabetic-retinopathy
 1 - Presence of DR <br/>
 
 **MultiClass Classification** <br/>
-0 - No DR
-1 - Mild
-2 - Moderate
-3 - Severe
-4 - Proliferative DR
+0 - No DR <br/>
+1 - Mild <br/>
+2 - Moderate <br/>
+3 - Severe <br/>
+4 - Proliferative DR <br/>
 
 
 The model is implemented with two different sets of weights:
