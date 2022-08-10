@@ -12,4 +12,4 @@ Skater Interpretabilty <br/>
 LimeImageExplainer is used to superimpose the mask over the image to show the interpretabilty of the model.
 
 **References** <br/>
-[Skater](https://lime-ml.readthedocs.io/en/latest/lime.html)
+[Skater Lime Image Explainer](https://lime-ml.readthedocs.io/en/latest/lime.html)
